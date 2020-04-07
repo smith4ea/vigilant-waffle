@@ -2,15 +2,15 @@
   <div id="app">
     <navbar />
     <header class="bg-info py-5 mb-5">
-    <div class="container h-100">
-      <div class="row h-100 align-items-center">
-        <div class="col-lg-12">
-          <h1 class="display-4 text-white mt-5 mb-2">Evan Smith</h1>
-          <p class="lead mb-5 text-white-50">My personal space.</p>
+      <div class="container h-100">
+        <div class="row h-100 align-items-center">
+          <div class="col-lg-12">
+            <h1 class="display-4 text-white mt-5 mb-2">Evan Smith</h1>
+            <p class="lead mb-5 text-white-50">My personal space.</p>
+          </div>
         </div>
       </div>
-    </div>
-  </header>
+    </header>
 
   <!-- Page Content -->
   <div class="container">

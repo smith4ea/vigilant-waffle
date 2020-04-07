@@ -19,8 +19,15 @@
       <div class="col-md-8 mb-5">
         <h2>About me</h2>
         <hr>
-        <p></p>
-        <p></p>
+        <p>Senior at the University of Cincinnati studying Information Technology.</p>
+        <h5>Familiar Technologies</h5>
+        <ul class="list-group">
+          <li class="list-group-item">Vue.js</li>
+          <li class="list-group-item">C#</li>
+          <li class="list-group-item">HTML/CSS</li>
+          <li class="list-group-item">Axure RP</li>
+          <li class="list-group-item">SQL</li>
+        </ul>
       </div>
       <div class="col-md-4 mb-5">
         <h2>Contact Me</h2>
@@ -48,7 +55,7 @@
             <p class="card-text">description</p>
           </div>
           <div class="card-footer">
-            <a href="#" class="btn btn-primary">Check it out</a>
+            <a href="/project1" class="btn btn-primary">Check it out</a>
           </div>
         </div>
       </div>

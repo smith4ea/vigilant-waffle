@@ -8,7 +8,6 @@
       <div class="navbar-nav">
         <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
         <a class="nav-item nav-link" href="#">About Me</a>
-        <a class="nav-item nav-link" href="#">Projects</a>
       </div>
     </div>
   </nav>
